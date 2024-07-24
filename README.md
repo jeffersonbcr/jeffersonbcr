@@ -11,7 +11,7 @@
 
 <h3 align="left">Join my host-self Element Call Room:</h3>
 <p align="left">
-  <a href="https://call.jefferson.tcc-engenharia.online/room/#/ifsc-sj-monitoria-alunos?password=f53hMgRqmSTjb522E0Fonw&roomId=%21sSQuwMUFkjynxUFHkk%3Ajefferson.tcc-engenharia.online" target="blank">
+  <a href="[https://call.jefferson.tcc-engenharia.online/room/#/ifsc-sj-monitoria-alunos?password=f53hMgRqmSTjb522E0Fonw&roomId=%21sSQuwMUFkjynxUFHkk%3Ajefferson.tcc-engenharia.online](https://call.jefferson.tcc-engenharia.online/)" target="blank">
     <img align="center" src="https://avatars.githubusercontent.com/u/13446337?s=48&v=4" alt="Element Call Room" height="30" width="30" />
   </a>
 </p>
