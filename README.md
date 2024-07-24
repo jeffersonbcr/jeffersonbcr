@@ -9,6 +9,14 @@
 
 - ⚡ Fun fact **I'm always looking for answers to my questions**
 
+<h3 align="left">Join my host-self Element Call Room:</h3>
+<p align="left">
+  <a href="https://call.jefferson.tcc-engenharia.online/room/#/ifsc-sj-monitoria-alunos?password=f53hMgRqmSTjb522E0Fonw&roomId=%21sSQuwMUFkjynxUFHkk%3Ajefferson.tcc-engenharia.online" target="blank">
+    <img align="center" src="https://avatars.githubusercontent.com/u/13446337?s=48&v=4" alt="Element Call Room" height="30" width="30" />
+  </a>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jefferson-botitano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jefferson-botitano" height="30" width="40" /></a>
