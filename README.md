@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I'm always looking for answers to my questions**
 
-<h3 align="left">Join my host-self Element Call Room:</h3>
+<h3 align="left">Try my host-self Element Call:</h3>
 <p align="left">
   <a href="https://call.jefferson.tcc-engenharia.online/" target="blank">
     <img align="center" src="https://avatars.githubusercontent.com/u/13446337?s=48&v=4" alt="Element Call Room" height="30" width="30" />
