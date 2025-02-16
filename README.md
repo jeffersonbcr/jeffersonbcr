@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jefferson Botitano Calderon</h1>
-<h3 align="center">A passionate full-stack developer from Brazil</h3>
+<h3 align="center">A passionate Software developer from Brazil</h3>
 
-- 🔭 I am available for hire
+- 🔭 I am employed.
 
 - 🌱 I’m currently learning **C++,JS,PYTHON,DOCKER,PHP,PROTOCOLS**
 
